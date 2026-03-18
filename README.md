@@ -1,5 +1,5 @@
 # comfyui-jp-prompt-translator
-日本語自然言語→SDXLやPonnyへのプロンプト変換
+日本語自然言語→SDXLやPonyへのプロンプト変換
 
 > 🚧 Work In Progress / 開発中
 
