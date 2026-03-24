@@ -29,6 +29,3 @@ automatically split into positive and negative encoders.
 - [ ] Pony用プロンプト最適化
 - [ ] サンプル画像
 
-## 作者 / Author
-
-ご意見・ご要望はIssueまでお気軽にどうぞ。
